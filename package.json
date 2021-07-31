@@ -1,0 +1,19 @@
+{
+  "name": "tdd-react-pinion-ate",
+  "version": "1.0.0",
+  "description": "This is a React based app to understand every aspect of Test driven development as demonstrated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyan9427/react-tdd-pinion-ate.git"
+  },
+  "author": "gyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyan9427/react-tdd-pinion-ate/issues"
+  },
+  "homepage": "https://github.com/gyan9427/react-tdd-pinion-ate#readme"
+}
