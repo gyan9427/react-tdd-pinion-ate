@@ -1,8 +1,10 @@
 import React from 'react';
-
+import RestaurantListPage from './RestaurantListPage';
 
 export default class App extends React.Component{
     render(){
-        return <div className="hello"><h1>Hello, world</h1></div>
+        return <div >
+            <RestaurantListPage/>
+        </div>
     }
 }
